@@ -1,5 +1,5 @@
 # REST API
-REST API usando Nodejs, Mongodb y sintaxis moderna de Javascript. 🗃🗒
+REST API using Nodejs, MongoDB, and modern Javascript syntax.. 🗃🗒
 
 ## Table of contents
 - [Technologies](#technologies)
